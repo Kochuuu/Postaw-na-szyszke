@@ -7,3 +7,5 @@ The game consists of three stages:
 1) 0-3 points - the player gets random questions from the pool with four answers,
 2) 4-6 points - the player gets random questions from the pool with three answers,
 3) 7 points - the player gets a random question from the pool of final questions with two answers.
+
+The application uses the QT framework.
