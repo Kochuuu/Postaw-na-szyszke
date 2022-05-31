@@ -1,0 +1,5 @@
+C:/Users/kochm/OneDrive/Pulpit/Postaw na szyszke/Release/CMakeFiles/PostawNaSzyszkeApp.dir
+C:/Users/kochm/OneDrive/Pulpit/Postaw na szyszke/Release/CMakeFiles/edit_cache.dir
+C:/Users/kochm/OneDrive/Pulpit/Postaw na szyszke/Release/CMakeFiles/rebuild_cache.dir
+C:/Users/kochm/OneDrive/Pulpit/Postaw na szyszke/Release/CMakeFiles/PostawNaSzyszkeApp_autogen_timestamp_deps.dir
+C:/Users/kochm/OneDrive/Pulpit/Postaw na szyszke/Release/CMakeFiles/PostawNaSzyszkeApp_autogen.dir
